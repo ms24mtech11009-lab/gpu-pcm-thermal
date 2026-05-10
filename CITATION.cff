@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "GPU-PCM: Millisecond-Scale Transient Thermal Simulation of AI Accelerator Hotspots with PCM-Copper Foam Buffering"
+authors:
+  - family-names: "Warsi"
+    given-names: "Mohd Arshad Zulfikar"
+    affiliation: "Indian Institute of Technology Hyderabad"
+    orcid: "https://orcid.org/0009-0008-9895-5652"
+version: "1.0.0"
+date-released: 2026-05-10
+url: "https://github.com/yourusername/gpu-pcm-thermal"
+repository-code: "https://github.com/yourusername/gpu-pcm-thermal"
+license: MIT
+keywords:
+  - "AI hardware thermal management"
+  - "phase change material"
+  - "copper foam composite"
+  - "GPU hotspot"
+  - "millisecond transient"
+  - "passive thermal buffering"
+  - "effective heat capacity method"
+  - "Stefan problem validation"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Warsi"
+      given-names: "Mohd Arshad Zulfikar"
+      affiliation: "Indian Institute of Technology Hyderabad"
+  title: "Millisecond-Scale Transient Thermal Response of AI GPU Hotspots Buffered by PCM-Copper Foam Composites"
+  year: 2026
+  notes: "Preprint"
