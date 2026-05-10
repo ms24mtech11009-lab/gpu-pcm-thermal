@@ -167,4 +167,4 @@ For questions about the code or paper, please open an issue on GitHub or contact
 
 ## Acknowledgments
 
-Author gratefully acknowledges discussions with the IIT Hyderabad Department of Mechanical and Aerospace Engineering thermal sciences group during the development of this work.
+to IIT Hyderabad Research facility
